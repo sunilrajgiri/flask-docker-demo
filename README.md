@@ -63,4 +63,8 @@ Hello from the Docker demo!
 Stop and remove the containers
 ```
 $ docker compose down
+
+
 ```
+add aws access key and secret key in aws_creds.py file
+Upload a csv file using the url http://localhost:80/v1/upload with file kwy file
